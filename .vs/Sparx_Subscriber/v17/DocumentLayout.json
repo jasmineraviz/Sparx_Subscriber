@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\editinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\editinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\editaddress.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\editaddress.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\editaddress.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\editaddress.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\editinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\editinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\sidepanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\sidepanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\sidepanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\sidepanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\sparx_subscriber.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\sparx_subscriber.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\profile.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\profile.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\panelround.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\panelround.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|c:\\users\\lenovo\\source\\repos\\sparx_subscriber\\sparx_subscriber\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{596D1082-7EB7-4C49-8509-662A9E18BBF0}|Sparx_Subscriber\\Sparx_Subscriber.vbproj|solutionrelative:sparx_subscriber\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\Profile.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\Profile.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\Profile.vb",
+              "RelativeToolTip": "Sparx_Subscriber\\Profile.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAIA7wCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T04:20:48.881Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditAddress.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\EditAddress.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\EditAddress.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\EditAddress.vb",
+              "RelativeToolTip": "Sparx_Subscriber\\EditAddress.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T10:14:44.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditAddress.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\EditAddress.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\EditAddress.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\EditAddress.vb [Design]",
+              "RelativeToolTip": "Sparx_Subscriber\\EditAddress.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T10:13:32.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditInfo.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\EditInfo.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\EditInfo.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\EditInfo.vb [Design]",
+              "RelativeToolTip": "Sparx_Subscriber\\EditInfo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T09:42:33.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditInfo.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\EditInfo.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\EditInfo.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\EditInfo.vb",
+              "RelativeToolTip": "Sparx_Subscriber\\EditInfo.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T09:51:50.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "History.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\History.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\History.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\History.vb",
+              "RelativeToolTip": "Sparx_Subscriber\\History.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T08:50:51.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\Profile.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\Profile.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\Profile.vb [Design]",
+              "RelativeToolTip": "Sparx_Subscriber\\Profile.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-01T08:34:57.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sparx_Subscriber.vbproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\Sparx_Subscriber.vbproj",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\Sparx_Subscriber.vbproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\Sparx_Subscriber.vbproj",
+              "RelativeToolTip": "Sparx_Subscriber\\Sparx_Subscriber.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-11-01T06:36:03.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SidePanel.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\SidePanel.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\SidePanel.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\SidePanel.vb",
+              "RelativeToolTip": "Sparx_Subscriber\\SidePanel.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-01T06:52:35.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SidePanel.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\SidePanel.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\SidePanel.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\SidePanel.vb [Design]",
+              "RelativeToolTip": "Sparx_Subscriber\\SidePanel.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-31T15:32:47.005Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "History.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\History.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\History.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\History.vb [Design]",
+              "RelativeToolTip": "Sparx_Subscriber\\History.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-01T07:38:16.096Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "Sparx_Subscriber\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABEAAAAAAAAAAIA5wB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-01T06:53:12.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PanelRound.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\PanelRound.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\PanelRound.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\PanelRound.vb",
+              "RelativeToolTip": "Sparx_Subscriber\\PanelRound.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-01T08:17:22.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\Profile.Designer.vb",
+              "RelativeDocumentMoniker": "Sparx_Subscriber\\Profile.Designer.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Sparx_Subscriber\\Sparx_Subscriber\\Profile.Designer.vb",
+              "RelativeToolTip": "Sparx_Subscriber\\Profile.Designer.vb",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowFAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T06:29:50.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
